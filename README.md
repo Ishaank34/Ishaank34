@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi 👋 I'm Ishaan Kapoor
 
-<!--
-**Ishaank34/Ishaank34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student at **VIT Vellore (Class of 2028)**
+💻 Software Developer | AI Builder
+🏀 Student Athlete (Basketball)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Working On
+
+• Agentic AI Systems
+• Voice AI automation
+• Flutter applications
+
+---
+
+## 🧠 Tech Stack
+
+Languages
+
+• C++
+• Python
+• Dart
+• JavaScript
+
+Tools
+
+• Git & GitHub
+• Linux / Ubuntu
+• VS Code
+
+AI
+
+• AI Agents
+• Workflow Automation
+• LLM Integrations
+
+---
+
+## 📌 Featured Projects
+
+### 🤖 AI Voice Receptionist
+
+Agentic AI receptionist that books and manages appointments using voice interaction.
+
+### 📰 News Aggregator App
+
+Flutter app that aggregates news from multiple APIs.
+
+---
+
+## 📊 GitHub Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=Ishaank34\&show_icons=true)
+
+---
+
+⭐ Always building. Always learning.
