@@ -49,9 +49,15 @@ Flutter app that aggregates news from multiple APIs.
 
 ---
 
+
+
 ## 📊 GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=Ishaank34\&show_icons=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ishaank34&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ishaank34&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ishaank34&theme=tokyonight)
 
 ---
 
