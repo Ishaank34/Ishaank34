@@ -2,7 +2,10 @@
 
 🎓 Computer Science Engineering Student at **VIT Vellore (Class of 2028)**
 💻 Software Developer | AI Builder
-🏀 Student Athlete (Basketball)
+🔬 Research Intern @ IISER Bhopal
+🏀 National Basketball Player
+🤖 Building AI Products, Agents & RAG Systems
+
 
 ---
 
@@ -35,6 +38,8 @@ AI
 • Workflow Automation
 • LLM Integrations
 
+Python • PyTorch • LangChain • Flutter • C++ • Vector Databases • LLMs • RAG
+
 ---
 
 ## 📌 Featured Projects
@@ -47,8 +52,20 @@ Agentic AI receptionist that books and manages appointments using voice interact
 
 Flutter app that aggregates news from multiple APIs.
 
----
 
+- AI Receptionist for Healthcare Business
+- Multilingual Healthcare Voice Assistant
+- Jarvis Desktop Agent
+- CLaRa Research Framework
+
+---
+## Current Focus
+- CLaRa RAG Research
+- Agentic AI Systems
+- Retrieval-Augmented Generation
+- AI Automation & Voice Agents
+
+---
 
 
 ## 📊 GitHub Stats
